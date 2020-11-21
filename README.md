@@ -1,5 +1,3 @@
 # ideas
 
-1. [[Code Assistant]]
-1. [[Find Language Popularity for a Topic]]
-
+Please go to the [wiki link| https://github.com/doraithodla/project-ideas/wiki] for project ideas. 
